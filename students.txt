@@ -1,0 +1,2 @@
+Julia,Ciapala,Presence.absent
+Kasia,Liczydlo,Presence.present
